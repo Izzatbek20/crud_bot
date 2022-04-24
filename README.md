@@ -3,19 +3,19 @@
 
 > /start
 
-![GitHub Light](https://github.com/Izzatbek20/crud_bot/blob/master/image/start.jpg | width=100)
+<img src="https://github.com/Izzatbek20/crud_bot/blob/master/image/start.jpg" height="300" />
 
 
 >Manzil
 
-![GitHub Light](https://github.com/Izzatbek20/crud_bot/blob/master/image/map.jpg | width=100)
+<img src="https://github.com/Izzatbek20/crud_bot/blob/master/image/map.jpg" height="300" />
 
 
 >Link
 
-![GitHub Light](https://github.com/Izzatbek20/crud_bot/blob/master/image/link.jpg | width=100)
+<img src="https://github.com/Izzatbek20/crud_bot/blob/master/image/link.jpg" height="300" />
 
 >Ma`lumot formasi
 
-![GitHub Light](https://github.com/Izzatbek20/crud_bot/blob/master/image/forma.jpg | width=100)
-![GitHub Light](https://github.com/Izzatbek20/crud_bot/blob/master/image/form2.jpg | width=100)
+<img src="https://github.com/Izzatbek20/crud_bot/blob/master/image/forma.jpg" height="300" />
+<img src="https://github.com/Izzatbek20/crud_bot/blob/master/image/form2.jpg" height="300" />
